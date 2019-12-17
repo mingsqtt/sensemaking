@@ -1,0 +1,9 @@
+Windows, linux:
+conda create -n issmv python=3.6 numpy=1.15.1 matplotlib=2.2.3 tensorflow=1.10.0 scipy=1.1.0 scikit-learn=0.19.1 spyder=3.3.2 yaml=0.1.7 keras=2.2.4 notebook=5.7.4 pandas=0.24.2 pywavelets=1.0.2
+
+
+
+
+Mac:
+
+conda create -n issmv python=3.6 numpy=1.15.1 matplotlib=2.2.3 tensorflow=1.10.0 scipy=1.1.0 scikit-learn=0.19.1 spyder=3.3.2 yaml=0.1.7 keras=2.2.4 notebook=5.7.4 pandas=0.24.2 pywavelets=1.0.2 ipykernel=4.10.0
